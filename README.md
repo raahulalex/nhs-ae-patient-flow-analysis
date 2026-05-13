@@ -58,7 +58,7 @@ nhs-ae-patient-flow-analysis
 ├── data_cleaned
 ├── notebooks
 ├── outputs
-└── README.md
+└── report
 ```
 
 ---
