@@ -122,7 +122,7 @@ An interactive Tableau Public dashboard was developed to visualise:
 
 ### Tableau Dashboard Link
 
-https://public.tableau.com/views/NHSAEPatientFlowandOperationalPerformanceDashboard/NHSAEPatientFlowDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+**[NHS A&E Patient Flow and Operational Performance]https://public.tableau.com/views/NHSAEPatientFlowandOperationalPerformanceDashboard/NHSAEPatientFlowDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 
 ---
 
